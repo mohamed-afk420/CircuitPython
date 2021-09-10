@@ -1,4 +1,4 @@
-# Write your code here :-)
+# made by Mohamed
 import board
 import neopixel
 import time
